@@ -1,0 +1,19 @@
+{
+  "name": "deprecated.js",
+  "version": "1.0.0",
+  "description": "The Deprecated JavaScript Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyrev/Deprecated.js.git"
+  },
+  "author": "Christian Neverdal Jonassen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flyrev/Deprecated.js/issues"
+  },
+  "homepage": "https://github.com/flyrev/Deprecated.js#readme"
+}
