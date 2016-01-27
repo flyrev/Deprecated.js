@@ -1,2 +1,2 @@
-var Deprecated = require('deprecated.js');
+var Deprecated = require('./index');
 Deprecated.printMessage();
