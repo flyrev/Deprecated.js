@@ -6,3 +6,6 @@ The deprecated JavaScript Framework
 
 ## Run tests
 `npm test`
+
+## Usage
+BE WARNED! This framework is deprecated. Please refrain from using it, despite its excellence.
