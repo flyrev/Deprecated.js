@@ -1,5 +1,5 @@
-var assert = require('assert');
-var Deprecated = require('./index');
-Deprecated.printMessage();
+import assert from 'assert'
+import { printMessage, isDeprecated } from '.'
+printMessage()
 
-assert(Deprecated.isDeprecated('deprecated.js'), 'should be deprecated');
+assert(isDeprecated('deprecated.js'), 'should be deprecated')

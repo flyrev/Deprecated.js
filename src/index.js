@@ -2,8 +2,8 @@
  * @deprecated since version 1.0.0
  */
 export function printMessage () {
-  console.log("This JavaScript framework is deprecated.");
-};
+  console.log('This JavaScript framework is deprecated.')
+}
 
 /**
  * Check the deprecation status of a npm module
@@ -11,6 +11,6 @@ export function printMessage () {
  * @param {string} npmModule - The name of the npm module
  * @deprecated since version 1.0.0
  */
-export function isDeprecated(npmModule) {
-  return true;
-};
+export function isDeprecated (npmModule) {
+  return true
+}
