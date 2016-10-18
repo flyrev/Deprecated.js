@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/flyrev/deprecated.js.git"
   },
-  "author": "Christian Neverdal Jonassen",
+  "author": "Christian Neverdal",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/flyrev/deprecated.js/issues"
