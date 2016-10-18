@@ -16,6 +16,13 @@ The deprecated JavaScript Framework!
 ## Install
 `npm install -g deprecated.js`
 
+This will give the following output:
+```
+npm WARN deprecated deprecated.js@1.0.1: Every version of this is deprecated
+/usr/lib
+└── deprecated.js@1.0.1 
+```
+
 ## Run tests
 `npm test`
 
