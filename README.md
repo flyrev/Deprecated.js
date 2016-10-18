@@ -11,7 +11,7 @@
 [standard-style-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-style-url]: https://github.com/feross/standard
 
-The deprecated JavaScript Framework
+The deprecated JavaScript Framework!
 
 ## Install
 `npm install -g deprecated.js`
