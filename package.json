@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flyrev/Deprecated.js.git"
+    "url": "git+https://github.com/flyrev/deprecated.js.git"
   },
   "author": "Christian Neverdal Jonassen",
   "license": "MIT",
