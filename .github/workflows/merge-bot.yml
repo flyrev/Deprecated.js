@@ -16,6 +16,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         test: true
         reviewers: false
-        labels: ready-to-merge
+        labels: ready to merge
         blocking-labels: do not merge
         method: squash
