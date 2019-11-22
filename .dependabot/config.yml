@@ -10,7 +10,7 @@ update_configs:
           update_type: "all"
     automerged_updates:
       - match:
-          dependency_type: "any"
+          dependency_type: "all"
           update_type: "all"
     commit_message:
       prefix: "dependencies"
