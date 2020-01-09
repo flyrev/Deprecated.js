@@ -26,5 +26,8 @@ npm WARN deprecated deprecated.js@1.0.1: Every version of this is deprecated
 ## Run tests
 `npm test`
 
+## GitHub Actions used
+* Rebase by typing `/rebase` in a PR comment! https://github.com/marketplace/actions/automatic-rebase#installation
+
 ## Usage
 BE WARNED! This framework is deprecated. Please refrain from using it, despite its excellence.
