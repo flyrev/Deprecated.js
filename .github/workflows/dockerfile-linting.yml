@@ -1,0 +1,12 @@
+name: Dockerfile linting
+on: [push]
+
+jobs:
+  dockerfile-linting:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: brpaz/hadolint-action@master
+      name: "Dockerfile linting"
