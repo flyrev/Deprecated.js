@@ -38,6 +38,9 @@ Please do this in as many projects as you possibly can!
 ## Run tests
 `npm test`
 
+# `yarn`, `pnpm`, etc.
+Coming soon!
+
 ## GitHub Actions used
 * Rebase by typing `/rebase` in a PR comment! https://github.com/marketplace/actions/automatic-rebase#installation
 * We lint the `Dockerfile`! https://github.com/brpaz/hadolint-action
