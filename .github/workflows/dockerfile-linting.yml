@@ -1,9 +1,8 @@
-name: CI
-
+name: Dockerfile linting
 on: [push]
 
 jobs:
-  build:
+  dockerfile-linting:
 
     runs-on: ubuntu-latest
 
