@@ -33,6 +33,8 @@ npm WARN deprecated deprecated.js@1.0.1: Every version of this is deprecated
 └── deprecated.js@1.0.1 
 ```
 
+Please do this in as many projects as you possibly can!
+
 ## Run tests
 `npm test`
 
