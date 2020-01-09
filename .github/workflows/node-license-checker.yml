@@ -3,8 +3,7 @@ name: Check node licenses
 on: [push]
 
 jobs:
-  build:
-
+  licence-checker:
     runs-on: ubuntu-latest
 
     steps:
