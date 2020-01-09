@@ -13,8 +13,18 @@
 
 The deprecated JavaScript Framework!
 
-## Install
+## Install globally
 `npm install -g deprecated.js` - because, after all, WHY would you not install a LIBRARY ... GLOBALLY?! :D
+
+This will give the following output:
+```
+npm WARN deprecated deprecated.js@1.0.1: Every version of this is deprecated
+/usr/lib
+└── deprecated.js@1.0.1 
+```
+
+## Install as a normal dependency
+`npm install deprecated.js`
 
 This will give the following output:
 ```
