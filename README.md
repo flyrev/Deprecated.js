@@ -28,6 +28,7 @@ npm WARN deprecated deprecated.js@1.0.1: Every version of this is deprecated
 
 ## GitHub Actions used
 * Rebase by typing `/rebase` in a PR comment! https://github.com/marketplace/actions/automatic-rebase#installation
+* We lint the `Dockerfile`! https://github.com/brpaz/hadolint-action
 
 ## Usage
 BE WARNED! This framework is deprecated. Please refrain from using it, despite its excellence.
