@@ -1,0 +1,14 @@
+name: Check node licenses
+
+on: [push]
+
+jobs:
+  licence-checker:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: License Checker
+      uses: docker://cdssnc/node-license-checker-github-action
+      with:
+        args: --onlyAllow 'ISC; MIT'
