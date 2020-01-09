@@ -11,4 +11,4 @@ jobs:
     - name: License Checker
       uses: docker://cdssnc/node-license-checker-github-action
       with:
-        args: --onlyAllow 'ISC'
+        args: --onlyAllow 'ISC; MIT'
