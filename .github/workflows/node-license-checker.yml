@@ -10,6 +10,6 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: License Checker
-      uses: kt3k/license_checker@v1.0.1
+      uses: docker://cdssnc/node-license-checker-github-action
       with:
-        args: "--onlyAllow 'MIT; MIT OR X11; BSD; ISC'"
+        args: --onlyAllow 'MIT; MIT OR X11; BSD; ISC'
