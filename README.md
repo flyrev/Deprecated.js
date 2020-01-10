@@ -42,3 +42,5 @@ Coming soon!
 
 ## Usage
 BE WARNED! This framework is deprecated. Please refrain from using it, despite its excellence.
+
+... and do not think that any "replacement library" is planned.
