@@ -1,0 +1,18 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "04:00"
+  open-pull-requests-limit: 99
+  ignore:
+  - dependency-name: object-inspect
+    versions:
+    - 1.10.0
+    - 1.10.1
+  - dependency-name: "@babel/highlight"
+    versions:
+    - 7.12.13
+  commit-message:
+    prefix: dependencies
