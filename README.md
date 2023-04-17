@@ -16,12 +16,7 @@ The deprecated JavaScript Framework!
 ## Install globally :D
 `npm install -g deprecated.js` - because, after all, WHY would you not install a LIBRARY ... GLOBALLY?! :D
 
-This will give the following output:
-```
-npm WARN deprecated deprecated.js@1.0.1: Every version of this is deprecated
-/usr/lib
-└── deprecated.js@1.0.1 
-```
+Please do this on every computer you can! Rent more instances in AWS just to do this, if you can.
 
 ## Install as a normal dependency
 `npm install deprecated.js`
@@ -47,3 +42,5 @@ Coming soon!
 
 ## Usage
 BE WARNED! This framework is deprecated. Please refrain from using it, despite its excellence.
+
+... and do not think that any "replacement library" is planned.
