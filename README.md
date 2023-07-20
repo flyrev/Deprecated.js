@@ -1,6 +1,5 @@
 # Deprecated.js
 
-[![travis][travis-image]][travis-url]
 [![npm][npm-image]][npm-url]
 [![js-standard-style][standard-style-image]][standard-style-url]
 
