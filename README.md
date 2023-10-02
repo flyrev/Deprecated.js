@@ -2,11 +2,13 @@
 
 [![npm][npm-image]][npm-url]
 [![js-standard-style][standard-style-image]][standard-style-url]
+![maintenance-status]
 
 [npm-image]: https://img.shields.io/npm/v/deprecated.js.svg?style=flat
 [npm-url]: https://npmjs.org/package/deprecated.js
 [standard-style-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-style-url]: https://github.com/feross/standard
+[maintenance-status]: https://badgen.net/badge/maintained/no!%20(as%20of%202016)/red
 
 The deprecated JavaScript Framework!
 
