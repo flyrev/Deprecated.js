@@ -4,6 +4,9 @@
 [![npm downloads][downloads-image]][downloads-url]
 [![js-standard-style][standard-style-image]][standard-style-url]
 ![maintenance-status]
+[![license][license-image]][license-url]
+[![node][node-image]][node-url]
+[![bundle size][bundle-image]][bundle-url]
 
 [npm-image]: https://img.shields.io/npm/v/deprecated.js.svg?style=flat
 [npm-url]: https://npmjs.org/package/deprecated.js
@@ -12,6 +15,12 @@
 [standard-style-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-style-url]: https://github.com/feross/standard
 [maintenance-status]: https://badgen.net/badge/status/deprecated/red
+[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: https://github.com/flyrev/deprecated.js/blob/main/LICENSE
+[node-image]: https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen.svg?style=flat
+[node-url]: https://nodejs.org
+[bundle-image]: https://img.shields.io/bundlephobia/minzip/deprecated.js.svg?style=flat
+[bundle-url]: https://github.com/flyrev/deprecated.js
 
 The deprecated JavaScript Framework!
 
